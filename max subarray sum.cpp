@@ -15,3 +15,5 @@ int n=nums.size();
         }
         return maxSum;
 }
+
+https://youtu.be/w_KEocd__20 watch this 
